@@ -1,2 +1,0 @@
-# maquinas-virtuales
-maquina virtual
