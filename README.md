@@ -1,2 +1,2 @@
-# maquina-virtual-linux
-maquina virtual creada para linux rhle
+# maquinas-virtuales
+maquina virtual
